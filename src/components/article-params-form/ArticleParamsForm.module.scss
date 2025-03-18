@@ -23,10 +23,18 @@
 	padding: 50px 31px;
 	background-color: #ffffff;
 	border-right: 1px solid #000000;
+	gap: 50px;
 }
 
 .bottomContainer {
 	display: flex;
 	justify-content: space-between;
 	margin-top: auto;
+}
+
+.title {
+	font-size: 31px;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
 }
