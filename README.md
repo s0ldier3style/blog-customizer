@@ -1,6 +1,8 @@
 # Проектная работа: Вёрстка проекта
 
-## Шаг первый. Изучаем имеющиеся компоненты
+![image](https://github.com/user-attachments/assets/0c070ce4-9083-46b2-a856-78d34c834447)
+
+Ссылка на деплой: 
 
 [Макет проекта](https://www.figma.com/file/FEeiiGLOsE7ktXbPpBxYoD/Custom-dropdown?type=design&node-id=0%3A1&mode=design&t=eXRJnWC6Xsuw0qR4-1)
 
